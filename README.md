@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-# https://santhosh-s-subramani.github.io/React-States-003/
+# https://alpha-santhosh.github.io/React-States-003/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
