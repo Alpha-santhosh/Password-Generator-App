@@ -34,5 +34,5 @@
 ## Screenshots -
 - Password Generator page
 
-![Sign In Page](https://raw.githubusercontent.com/Alpha-santhosh/Netflix-Clone/main/src/Img/netflix-signin.jpg)
+![Sign In Page](https://github.com/Alpha-santhosh/Password-Generator-App/blob/main/PasswordGenerator.png?raw=true)
 
